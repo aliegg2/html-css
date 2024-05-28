@@ -1,0 +1,43 @@
+body{
+    background-color: #333;
+    color: #f4f4f4;
+   
+}
+
+nav a{
+    color: blueviolet;
+}
+
+nav a:hover{
+    color: whitesmoke;
+
+}
+
+p{
+    border: 1px;
+    padding: 5px;
+    color: #00ff73;
+    font-family: "consolas", "sans-serif";
+    border-style: inset;
+    border-width: 6px;
+    border-color: red;
+    display: inline-block;
+    font-size: larger;
+}
+
+a:link{
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+a:visited{
+    color: gray;
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
+a:active{
+    color: yellow;
+}
